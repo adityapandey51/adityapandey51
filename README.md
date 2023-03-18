@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e474f4z8567th618a60jm6owxxnuqa4dgife7ouwxxr&rid=giphy.gif&ct=s" width="100"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/aditya-pandey-727175233">
+  <a href="https://linkedin.com/in/aditya-pandey-727175233">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.instagram.com/adityapandey5180/">
+  <a href="https://instagram.com/adityapandey5180/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="instagram Badge"/>
   </a>
 </div>
