@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/aditya-pandey-727175233">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/adityapandey5180/">
+  <a href="https://instagram.com/adit_localhost8080/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="instagram Badge"/>
   </a>
 </div>
