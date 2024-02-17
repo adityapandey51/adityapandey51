@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring how to build great web apps.
 
-- 👨‍💻: Currently learning typescript and other backend technologies.
+- 👨‍💻: Currently learning typescript, nextjs and other backend technologies.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aditya-pandey-727175233)
