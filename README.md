@@ -20,12 +20,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🧑‍💼: I’m working to be a better web developer and contributing to frontend and backend for building web applications.
+I am a Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🧑‍💼: I’m working to be a better engineer and contributing to backend for building scalable and reliable systems.
 
-- :seedling: Exploring how to build great web apps.
+- :seedling: Exploring Machine learning and AI .
 
-- 👨‍💻: Currently learning typescript, nextjs and other backend technologies.
+- 👨‍💻: Currently learning machine learning.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aditya-pandey-727175233)
